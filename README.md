@@ -1,4 +1,6 @@
 ## LuaJSON
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fluajson.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fluajson?ref=badge_shield)
+
 JSON Parser/Constructor for Lua
 
 ### Author:
@@ -33,6 +35,9 @@ it is not in the test matrix.
 ### License
 All-but tests: MIT-style, See LICENSE for details
 tests/*:       Public Domain / MIT - whichever is least restrictive
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fluajson.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fluajson?ref=badge_large)
 
 ### Module/Function overview:
 ### json.encode (callable module referencing json.encode.encode)
